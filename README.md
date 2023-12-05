@@ -128,6 +128,7 @@ It's a good idea to verify that OSPF is functioning correctly
 before configuring OSPF authentication because it makes
 troubleshooting easier, ensures network stability, helps ease
 the configuration process and avoids unnecessary changes.
+
 Designated Router (DR) and Backup Designated Router (BDR)
 
 In OSPF, a DR (Designated Router) and a BDR
