@@ -110,6 +110,7 @@ What is the indication of O IA?
 A way would be to use the "show ip route" command, which will display
 the entire routing table for the router. Inter-area routes will be identified
 with the prefix "O IA" in the routing table.
+
 MD5 authentication provides a mechanism to ensure that
 the routing updates exchanged between routers are
 authentic. It does this by adding a message digest (or hash)
